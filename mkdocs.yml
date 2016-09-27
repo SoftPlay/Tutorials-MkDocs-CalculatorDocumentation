@@ -1,0 +1,18 @@
+site_name: Calculator user guide
+
+pages:
+- Home: 'index.md'
+- Buttons and how to push them:
+    - 'The History of Buttons': 'buttons/history.md'
+    - 'Emulated Calculator buttons': 'buttons/emulation.md'
+- What is a math?:
+    - 'Addition 101': 'math/addition.md'
+    - 'Subtract your ignorance': 'math/subtraction.md'
+    - 'The Table Of Ones': 'math/ones.md'
+- Calculator use:
+    - 'Hardware Calculator':
+        - '1+1': 'calc/hardware/oneplusone.md'
+    - 'Software Calculator':
+        - '0001+0001': 'calc/software/oneplusone.md'
+
+theme: readthedocs
