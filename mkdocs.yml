@@ -1,5 +1,7 @@
+# Defines the Site's title
 site_name: Calculator user guide
 
+# Defines page hierarchy, document hierarchy in their directories and page titles.
 pages:
 - Home: 'index.md'
 - Buttons and how to push them:
@@ -15,4 +17,5 @@ pages:
     - 'Software Calculator':
         - '0001+0001': 'calc/software/oneplusone.md'
 
+# Defines theme to import and use
 theme: readthedocs
